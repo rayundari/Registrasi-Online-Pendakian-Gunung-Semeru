@@ -1,3 +1,7 @@
+/*Program ini dibuat oleh 
+-Ahmad Mufin Rosyadi 1706104483
+-Rahayu Windasari 1706104584 */
+	
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
