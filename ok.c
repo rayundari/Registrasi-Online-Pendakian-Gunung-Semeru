@@ -1,4 +1,5 @@
-/*Program ini dibuat oleh 
+/*Program ini dibuat oleh Kelompok 4
+Judul : Registrasi Online Pendakian Gunung Semeru
 -Ahmad Mufin Rosyadi 1706104483
 -Rahayu Windasari 1706104584 */
 	
